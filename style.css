@@ -1,7 +1,7 @@
 @import url('https://fonts.cdnfonts.com/css/roundo');
 
 body {
-    background: url(pattern-background-desktop.svg) repeat-x #E0E8FF;
+    background: url(img/pattern-background-desktop.svg) repeat-x #E0E8FF;
     display: flex;
     align-items: center;
     justify-content: center;
